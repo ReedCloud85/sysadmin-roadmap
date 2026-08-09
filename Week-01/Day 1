@@ -1,7 +1,7 @@
-#Day 1 Wednesday 8/5/26
+# Day 1 Wednesday 8/5/26
 
 Today was a day of getting started with my Bootcamp. My objectives for the day were:
-[X] Create a dedicated Sys Admin workspace
+- [X] Create a dedicated Sys Admin workspace
   -Created a folder on my desktop called "SysAdmin Bootcamp" and inside that folder, I've created the following folders:
     -AWS
     -Certifications
@@ -13,12 +13,12 @@ Today was a day of getting started with my Bootcamp. My objectives for the day w
     -Powershell
     -Screenshots
     -VMs
-[X] Install Virtualization software and confirm it is working
+- [X] Install Virtualization software and confirm it is working
   -I installed VMware Workstation Pro and confirmed it was functional after installation.
-[X] Download all required installation media
+- [X] Download all required installation media
   -Installed ISOs for Windows Server 2022 Evaluation and Ubuntu Server LTS.
-[X] Start a GitHub portfolio
+- [X] Start a GitHub portfolio
   -I created the sysadmin-roadmap repository you are currently reading.
-[X] A place for notes
+- [X] A place for notes
   -Installed Obsidian for notes (I've never used it but comes recommended).
   -I've also been printing sheets out in plans of having a physical copy of everything in a binder.
