@@ -1,0 +1,22 @@
+#Day 2 Thursday 8/6/26
+
+Objectives for today were to:
+[X] Create a Windows Server VM with the Windows Server 2022 ISO downloaded on Day 1 (Image Attached)
+  -VM Name: SRV-DC01
+  -Operating System: Windows Server 2022 Evaluation
+  -RAM: 6GB
+  -Disk: 60GB
+  -Network Mode: NAT
+[X] Configure server hostname (Image Attached)
+  -Renamed the server to SRV-DC01
+[X] Configure a static IP (Image Attached)
+  -IPv4: 192.168.150.200
+  -Subnet: 255.255.255.0
+  -Gateway: 192.168.150.2
+  -DNS: 192.168.150.2
+[X] Test Network Connectivity
+  -Verified connectivity by pinging 192.168.150.2 and 8.8.8.8
+[X] Install Windows Updates (Image Attached)
+  -Also executed the DISM repair command (DISM /Online /Cleanup-Image /RestoreHealth) to restore the health of the Windows system image and updated it to the most current version.
+[X] Create a clean VM snapshot (Image Attached)
+  -Snapshot named CLEAN-BASE.
