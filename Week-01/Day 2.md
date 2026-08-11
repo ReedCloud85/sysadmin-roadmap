@@ -20,3 +20,9 @@ Objectives for today were to:
   -Also executed the DISM repair command (DISM /Online /Cleanup-Image /RestoreHealth) to restore the health of the Windows system image and updated it to the most current version.
 - [X] Create a clean VM snapshot (Image Attached in Images folder)
   -Snapshot named CLEAN-BASE.
+
+<img width="1060" height="728" alt="Desktop" src="https://github.com/user-attachments/assets/dba3c868-34c9-46b9-af5a-b3a62fefdda5" />
+<img width="677" height="401" alt="ipconfig all" src="https://github.com/user-attachments/assets/93349bac-c3e7-4881-ad6d-5255f23ab43e" />
+<img width="311" height="91" alt="Hostname" src="https://github.com/user-attachments/assets/f7197c53-8e97-4b6f-90ea-c2e21e02fd38" />
+<img width="368" height="166" alt="Windows Update" src="https://github.com/user-attachments/assets/ddcec557-1db0-450d-a545-ba46db6eaf96" />
+<img width="238" height="177" alt="Snapshot" src="https://github.com/user-attachments/assets/5bb1228a-fff2-45ff-9574-3e6361bfd422" />
