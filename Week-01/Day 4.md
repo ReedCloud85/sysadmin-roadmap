@@ -72,3 +72,7 @@ This is especially important when configuring infrastructure such as Active Dire
 - DSRM provides a recovery mechanism for Active Directory.
 - Domain Controllers should have predictable IP addressing.
 - Infrastructure configuration decisions should be understood rather than blindly accepted.
+
+<img width="756" height="535" alt="Active Directory" src="https://github.com/user-attachments/assets/a1b9d8bf-3db4-443a-83f2-9d0e5cc2dd84" />
+<img width="472" height="208" alt="nslookup" src="https://github.com/user-attachments/assets/27c80eb4-5292-404e-bdb1-ddd5949b7317" />
+<img width="759" height="532" alt="DNS" src="https://github.com/user-attachments/assets/0f24627c-fe01-408c-ac62-673d95b91965" />
