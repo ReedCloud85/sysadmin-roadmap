@@ -75,8 +75,8 @@ Notes/
 ## Progress
 
 - [x] Bootcamp Started
-- [ ] Home Lab Built
-- [ ] Active Directory Configured
+- [x] Home Lab Built
+- [x] Active Directory Configured
 - [ ] Linux Server Configured
 - [ ] PowerShell Automation
 - [ ] AWS Projects Complete
