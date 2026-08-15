@@ -17,7 +17,7 @@ Objectives for today were to:
 - [X] Test Network Connectivity
   -Verified connectivity by pinging 192.168.150.2 and 8.8.8.8
 - [X] Install Windows Updates (Image Attached in Images folder)
-  -Also executed the DISM repair command (DISM /Online /Cleanup-Image /RestoreHealth) to restore the health of the Windows system image and updated it to the most current version.
+  -Also ran 'DISM /Online /Cleanup-Image /RestoreHealth' to verify the Windows component store was healthy and repair any corruption that may have been present.
 - [X] Create a clean VM snapshot (Image Attached in Images folder)
   -Snapshot named CLEAN-BASE.
 
