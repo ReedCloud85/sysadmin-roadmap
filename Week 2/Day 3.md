@@ -1,6 +1,6 @@
 # Day 8 - Wednesday 8/12/26
 
-## PowerShell Automation & AD User Lifecycle
+## Active Directory Administration & PowerShell
 
 Day 8 focused on administering Active Directory instead of building the Active Directory environment.
 
